@@ -2,6 +2,11 @@
 
 URL : https://hidden-sands-21767.herokuapp.com/
 
+### Steps for deployment
+1.  heroku create
+2.  heroku config:set NPM_CONFIG_PRODUCTION=false
+3.  git push heroku master
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
