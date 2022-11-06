@@ -7,6 +7,8 @@ URL : https://hidden-sands-21767.herokuapp.com/
 2.  heroku config:set NPM_CONFIG_PRODUCTION=false
 3.  git push heroku master
 
+# Application has : Counter implementation
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
